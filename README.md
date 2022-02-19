@@ -1,1 +1,2 @@
-# Online_Service_Maintenance_System
+Online service maintenance system is a complete web application that is written in the PHP language. The aim of the project is developing a online application to maintain all the daily work of service centre.This project has many features which are generally not available in normal online service management systems like product/parts records, issue custom-er bill etc. It also has a facility of admin login through which admin can monitor the whole system. This system can be used to search for assign work, add/remove technician, add/
+remove products etc. The admin after logging into his account can generate various reports such as product sell report and service/work report.  
